@@ -1,1 +1,1 @@
-commit-merge
+commit-rebase
